@@ -1,0 +1,180 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/santi/Escritorio/Ingenieria/2019/1er cuat/Taller de programacion I/tps/tp2/Comparador.cpp
+Comparador.h
+/home/santi/Escritorio/Ingenieria/2019/1er cuat/Taller de programacion I/tps/tp2/Comparador.h
+
+/home/santi/Escritorio/Ingenieria/2019/1er cuat/Taller de programacion I/tps/tp2/Comparador.h
+InterpreteConPrioridad.h
+/home/santi/Escritorio/Ingenieria/2019/1er cuat/Taller de programacion I/tps/tp2/InterpreteConPrioridad.h
+
+/home/santi/Escritorio/Ingenieria/2019/1er cuat/Taller de programacion I/tps/tp2/Consumidor.cpp
+Consumidor.h
+/home/santi/Escritorio/Ingenieria/2019/1er cuat/Taller de programacion I/tps/tp2/Consumidor.h
+
+/home/santi/Escritorio/Ingenieria/2019/1er cuat/Taller de programacion I/tps/tp2/Consumidor.h
+condition_variable
+-
+Thread.h
+/home/santi/Escritorio/Ingenieria/2019/1er cuat/Taller de programacion I/tps/tp2/Thread.h
+HeapProtegido.h
+/home/santi/Escritorio/Ingenieria/2019/1er cuat/Taller de programacion I/tps/tp2/HeapProtegido.h
+
+/home/santi/Escritorio/Ingenieria/2019/1er cuat/Taller de programacion I/tps/tp2/HeapProtegido.cpp
+mutex
+-
+thread
+-
+HeapProtegido.h
+/home/santi/Escritorio/Ingenieria/2019/1er cuat/Taller de programacion I/tps/tp2/HeapProtegido.h
+
+/home/santi/Escritorio/Ingenieria/2019/1er cuat/Taller de programacion I/tps/tp2/HeapProtegido.h
+mutex
+-
+queue
+-
+vector
+-
+condition_variable
+-
+InterpreteConPrioridad.h
+/home/santi/Escritorio/Ingenieria/2019/1er cuat/Taller de programacion I/tps/tp2/InterpreteConPrioridad.h
+Comparador.h
+/home/santi/Escritorio/Ingenieria/2019/1er cuat/Taller de programacion I/tps/tp2/Comparador.h
+
+/home/santi/Escritorio/Ingenieria/2019/1er cuat/Taller de programacion I/tps/tp2/Interprete.cpp
+Interprete.h
+/home/santi/Escritorio/Ingenieria/2019/1er cuat/Taller de programacion I/tps/tp2/Interprete.h
+fstream
+-
+iostream
+-
+vector
+-
+stack
+-
+map
+-
+string
+-
+string.h
+-
+
+/home/santi/Escritorio/Ingenieria/2019/1er cuat/Taller de programacion I/tps/tp2/Interprete.h
+fstream
+-
+iostream
+-
+vector
+-
+map
+-
+sstream
+-
+string
+-
+MemoriaDatos.h
+/home/santi/Escritorio/Ingenieria/2019/1er cuat/Taller de programacion I/tps/tp2/MemoriaDatos.h
+
+/home/santi/Escritorio/Ingenieria/2019/1er cuat/Taller de programacion I/tps/tp2/InterpreteConPrioridad.cpp
+InterpreteConPrioridad.h
+/home/santi/Escritorio/Ingenieria/2019/1er cuat/Taller de programacion I/tps/tp2/InterpreteConPrioridad.h
+
+/home/santi/Escritorio/Ingenieria/2019/1er cuat/Taller de programacion I/tps/tp2/InterpreteConPrioridad.h
+mutex
+-
+Interprete.h
+/home/santi/Escritorio/Ingenieria/2019/1er cuat/Taller de programacion I/tps/tp2/Interprete.h
+
+/home/santi/Escritorio/Ingenieria/2019/1er cuat/Taller de programacion I/tps/tp2/MemoriaDatos.cpp
+MemoriaDatos.h
+/home/santi/Escritorio/Ingenieria/2019/1er cuat/Taller de programacion I/tps/tp2/MemoriaDatos.h
+stdio.h
+-
+string.h
+-
+iostream
+-
+
+/home/santi/Escritorio/Ingenieria/2019/1er cuat/Taller de programacion I/tps/tp2/MemoriaDatos.h
+
+/home/santi/Escritorio/Ingenieria/2019/1er cuat/Taller de programacion I/tps/tp2/Parser.cpp
+vector
+-
+iostream
+-
+string
+-
+Parser.h
+/home/santi/Escritorio/Ingenieria/2019/1er cuat/Taller de programacion I/tps/tp2/Parser.h
+
+/home/santi/Escritorio/Ingenieria/2019/1er cuat/Taller de programacion I/tps/tp2/Parser.h
+string
+-
+vector
+-
+
+/home/santi/Escritorio/Ingenieria/2019/1er cuat/Taller de programacion I/tps/tp2/Productor.cpp
+iostream
+/home/santi/Escritorio/Ingenieria/2019/1er cuat/Taller de programacion I/tps/tp2/iostream
+string
+-
+Productor.h
+/home/santi/Escritorio/Ingenieria/2019/1er cuat/Taller de programacion I/tps/tp2/Productor.h
+Interprete.h
+/home/santi/Escritorio/Ingenieria/2019/1er cuat/Taller de programacion I/tps/tp2/Interprete.h
+InterpreteConPrioridad.h
+/home/santi/Escritorio/Ingenieria/2019/1er cuat/Taller de programacion I/tps/tp2/InterpreteConPrioridad.h
+
+/home/santi/Escritorio/Ingenieria/2019/1er cuat/Taller de programacion I/tps/tp2/Productor.h
+condition_variable
+-
+Parser.h
+/home/santi/Escritorio/Ingenieria/2019/1er cuat/Taller de programacion I/tps/tp2/Parser.h
+HeapProtegido.h
+/home/santi/Escritorio/Ingenieria/2019/1er cuat/Taller de programacion I/tps/tp2/HeapProtegido.h
+
+/home/santi/Escritorio/Ingenieria/2019/1er cuat/Taller de programacion I/tps/tp2/Thread.cpp
+Thread.h
+/home/santi/Escritorio/Ingenieria/2019/1er cuat/Taller de programacion I/tps/tp2/Thread.h
+
+/home/santi/Escritorio/Ingenieria/2019/1er cuat/Taller de programacion I/tps/tp2/Thread.h
+thread
+-
+
+/home/santi/Escritorio/Ingenieria/2019/1er cuat/Taller de programacion I/tps/tp2/ThreadPool.cpp
+ThreadPool.h
+/home/santi/Escritorio/Ingenieria/2019/1er cuat/Taller de programacion I/tps/tp2/ThreadPool.h
+
+/home/santi/Escritorio/Ingenieria/2019/1er cuat/Taller de programacion I/tps/tp2/ThreadPool.h
+vector
+-
+Thread.h
+/home/santi/Escritorio/Ingenieria/2019/1er cuat/Taller de programacion I/tps/tp2/Thread.h
+Consumidor.h
+/home/santi/Escritorio/Ingenieria/2019/1er cuat/Taller de programacion I/tps/tp2/Consumidor.h
+
+/home/santi/Escritorio/Ingenieria/2019/1er cuat/Taller de programacion I/tps/tp2/tp2.cpp
+stdio.h
+-
+string.h
+-
+iostream
+-
+string
+-
+Interprete.h
+/home/santi/Escritorio/Ingenieria/2019/1er cuat/Taller de programacion I/tps/tp2/Interprete.h
+Productor.h
+/home/santi/Escritorio/Ingenieria/2019/1er cuat/Taller de programacion I/tps/tp2/Productor.h
+Thread.h
+/home/santi/Escritorio/Ingenieria/2019/1er cuat/Taller de programacion I/tps/tp2/Thread.h
+ThreadPool.h
+/home/santi/Escritorio/Ingenieria/2019/1er cuat/Taller de programacion I/tps/tp2/ThreadPool.h
+
