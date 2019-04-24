@@ -1,10 +1,12 @@
 #ifndef TP2_MEMORIADATOS_H
 #define TP2_MEMORIADATOS_H
 
+#include <vector>
+
 struct MemoriaDatos {
     private:
-    char *memoria;
-    int ptr;
+    std::vector<unsigned char> memoria;
+    std::vector<unsigned char>::iterator it;
     public:
     MemoriaDatos();
     // Avanza una posicion el puntero de datos.

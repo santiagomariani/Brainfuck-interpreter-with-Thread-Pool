@@ -6,33 +6,29 @@
 
 #define TAM 3000
 
-MemoriaDatos::MemoriaDatos() {
-    this->memoria = new char[TAM];
-    memset(this->memoria, 0, TAM);
-    this->ptr = 0;
+MemoriaDatos::MemoriaDatos() : memoria(TAM, 0), it(memoria.begin()){
 }
 void MemoriaDatos::avanzarPos() {
-    if (this->ptr < TAM - 1) {
-        ++this->ptr;
+    if (std::addressof(*this->it) != std::addressof(this->memoria.back())) {
+        ++this->it;
     }
 }
 void MemoriaDatos::retrocederPos() {
-    if (this->ptr > 0) {
-        --this->ptr;
+    if (std::addressof(*this->it) != std::addressof(this->memoria.front())) {
+        --this->it;
     }
 }
 void MemoriaDatos::aumentarValor() {
-    ++(this->memoria)[this->ptr];
+    ++*this->it;
 }
 void MemoriaDatos::disminuirValor() {
-    --(this->memoria)[this->ptr];
+    --*this->it;
 }
 void MemoriaDatos::escribirValor(char c) {
-    (this->memoria)[this->ptr] = c;
+    *this->it = c;
 }
 char MemoriaDatos::leerValor() {
-    return (this->memoria)[this->ptr];
+    return *this->it;
 }
 MemoriaDatos::~MemoriaDatos() {
-    delete[] this->memoria;
 }
